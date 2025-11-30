@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kevin Gonzalez</h1>
 <h3 align="center">A computer systems engineering student in process</h3>
 
-- 🔭 I’m currently working on **Taller el Aleman**
-
-- 🌱 I’m currently learning **Flutter and Dart**
-
 - 📫 How to reach me **eloyvin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
