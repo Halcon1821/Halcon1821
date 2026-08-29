@@ -17,8 +17,6 @@ I'm currently looking for opportunities as a **Junior Backend Developer / Java D
 
 * 🔭 Currently working with **Java, Spring Boot, REST APIs and MySQL**
 * 🌱 Currently improving my knowledge of **Java, Spring Boot, SQL, testing and system design**
-* 📍 Based in **Jalisco, Mexico**
-* 🚀 Open to **relocation to Guadalajara and remote opportunities**
 * 📫 Reach me at **[eloyvin@gmail.com](mailto:eloyvin@gmail.com)**
 
 ---
@@ -42,11 +40,11 @@ I'm currently looking for opportunities as a **Junior Backend Developer / Java D
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+</a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
